@@ -11,7 +11,7 @@ Simple discord bot template with events and commands folder.
 ```
 #### Support:
 
-* Feel free to contact me on discord: `Youniz#6267`
+* Feel free to contact me on discord: `Youniz#0001`
 * Join my support discord: [Here](https://discord.gg/aSQsaB4t43)
 
 #### License:
